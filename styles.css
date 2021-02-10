@@ -383,6 +383,7 @@
         color: white;
         justify-content: center;
         margin-left: 16px;
+        margin-bottom: 550px;
     }
     .Projects h2 {
         /* margin-bottom: 2%; */
@@ -409,7 +410,7 @@
         border: 2px solid black;
         height: 230px;
         width: 70%;
-        margin-bottom: 5%;
+        margin-bottom: 15%;
         opacity: 90%;
     }
     .Projects .wrappercards .card h5 {
